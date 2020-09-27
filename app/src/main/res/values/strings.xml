@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="msg_txt">Massage</string>
+    <string name="phone_num">Phone Number</string>
+    <string name="close_btn">Close</string>
+    <string name="next_btn">Next</string>
+</resources>
